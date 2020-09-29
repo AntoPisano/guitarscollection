@@ -11,10 +11,9 @@
         <h1 class="title">THE GUITAR COLLECTION!!!!!</h1>
     </nav>
 </header>
-<button type="button" onclick="alert('Hello world!')">the pig wants more rock<br>ADD GUITAR!</button>
-
-
-
+<form action="http://localhost:1234/collection/guitarscollection/form.php">
+<button type="submit">the pig wants more rock<br>ADD GUITAR!</button>
+</form>
 <div class="collection">
     <?php
     if (!empty($result)) {

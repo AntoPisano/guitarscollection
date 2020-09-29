@@ -32,7 +32,7 @@ body {
     text-align: left;
 }
 
-@media only screen and (max-width: 10%) {
+@media only screen and (max-width: 500px) {
     .collection {
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -75,4 +75,21 @@ button {
 button:hover {
     background-color: forestgreen;
     color: white;
+}
+
+form {
+    text-align: center;
+}
+
+ li {
+    list-style: none;
+    margin-top: 20px;
+
+}
+
+.addGuitar {
+    margin-bottom: 40px;
+    margin-top: 60px;
+    text-align: center;
+    font-family: fantasy
 }
