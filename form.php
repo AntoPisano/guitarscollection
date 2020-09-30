@@ -15,10 +15,9 @@
         <li><input type="text" name="color" placeholder="COLOR" formmethod="POST"></li>
         <li><input type="text" name="playedby" placeholder="PLAYED BY" formmethod="POST"></li>
     </ul>
+    <button type="submit">ADD GUITAR</button>
 </form>
-    <form action="http://localhost:1234/collection/guitarscollection/add.php">
-        <button type="submit">ADD GUITAR</button>
-    </form>
+</div>
     <img class="guitar" src = "https://thumbs.dreamstime.com/b/rock-roll-lettering-cartoon-pig-rock-roll-lettering-cartoon-pig-eps-rgb-global-colors-113875550.jpg" alt="Guitarlogo"></li>
     <form action="http://localhost:1234/collection/guitarscollection/collection.php">
         <button type="submit">BACK TO GUITAR COLLECTION</button>
