@@ -33,7 +33,7 @@ body {
     text-align: left;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 1000px) {
     .collection {
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -58,7 +58,7 @@ img {
     border-radius: 5px;
 }
 
-button  {
+button {
     margin:auto;
     display: block;
     background-color: #1A290F;
@@ -71,6 +71,7 @@ button  {
     transition-duration: 0.4s;
     cursor: pointer;
     border-radius: 5px;
+    font-family: fantasy;
 }
 
 button:hover {
@@ -87,7 +88,6 @@ li {
     margin-top: 20px;
     position: relative;
     left: -20px;
-
 }
 
 .addGuitar {
@@ -110,7 +110,8 @@ li {
     transition-duration: 0.4s;
     cursor: pointer;
     border-radius: 5px;
-    width: 155px;
+    width: 230px;
+    font-family: fantasy;
 }
 
 .button:hover {
