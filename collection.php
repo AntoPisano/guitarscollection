@@ -2,15 +2,15 @@
 <html>
 <head>
     <title>Collection</title>
-    <link rel="stylesheet" type="text/css" href="collection.css">
     <link rel="stylesheet" type="text/css" href="normalize.css">
+    <link rel="stylesheet" type="text/css" href="collection.css">
 </head>
 <body>
 <header>
         <img class="guitar" src = "https://w0286994blog.files.wordpress.com/2016/04/scute.jpg?w=676" alt="Guitarlogo"></li>
         <h1 class="title">THE GUITAR COLLECTION!!!!!</h1>
 </header>
-<a href="http://localhost:1234/collection/guitarscollection/form.php" class="button">the pig wants more rock<br>ADD GUITAR!</a>
+<a href="http://localhost:1234/collection/guitarscollection/form.php" class="button">the piglet wants more rock...<br>ADD GUITAR!</a>
 <div class="collection">
     <?php
     if (!empty($result)) {
@@ -24,8 +24,6 @@
     }
     ?>
 </div>
-
-
 </body>
 </html>
 
