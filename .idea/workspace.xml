@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2c42edf-1848-4075-ac24-936252c5bafe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iBMq4aRUFadHQcxdBP5LOJcNg9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2c42edf-1848-4075-ac24-936252c5bafe" name="Default Changelist" comment="" />
+      <created>1601376721396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601376721396</updated>
+      <workItem from="1601376724599" duration="19618000" />
+      <workItem from="1601473519890" duration="15355000" />
+      <workItem from="1601885356182" duration="48000" />
+      <workItem from="1602286956460" duration="147000" />
+      <workItem from="1602287162132" duration="127000" />
+      <workItem from="1605557204595" duration="200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="88" key="#CLI_Interpreters" timestamp="1602287058277">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="308" y="88" key="#CLI_Interpreters/0.23.1440.807/-1680.-658.1680.1027@0.23.1440.807" timestamp="1602287058277" />
+    <state x="388" y="76" key="#PHP" timestamp="1602287095837">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="388" y="76" key="#PHP/0.23.1440.807/-1680.-658.1680.1027@0.23.1440.807" timestamp="1602287095837" />
+    <state x="539" y="359" key="NewPhpFileDialog" timestamp="1601468818139">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="539" y="359" key="NewPhpFileDialog/0.23.1440.877/-1680.-413.1680.957@0.23.1440.877" timestamp="1601468818139" />
+  </component>
+</project>

@@ -18,7 +18,7 @@ $type = $_POST['type'];
 $result = $query->execute([$img, $model, $year, $color, $artist, $type]);
 
 if ($result) {
-    echo '<h1 class="title">WELL DONE!<br>the piglet is proud of you...</h1>';
+    echo '<h1 class="title">WELL DONE!<br>the new guitar has been added to the collection...</h1>';
     echo '<a class="button" href="collection.php">BACK TO THE COLLECTION!!</a>';
 } else{
     echo '<h1 class="title">ENTER MORE DETAILS!!</h1>';
